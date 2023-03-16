@@ -1,6 +1,6 @@
 # Ejercicio1_cosas_oscar
 
-
+Mi Repositorio:https: //github.com/OscarLGP30/Ejercicio1_cosas_oscar.git
 
 
 a) Escribir una función recursiva que calcule xy mediante multiplicaciones sucesivas, siendo x e y
